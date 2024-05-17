@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+article {
+ background: lightblue;
+}
+
+section {
+  background: lightseagreen
+}
+
+/* divタグの使い所 */
+.yokonarabi {
+  display: flex;
+  align-items: flex-end;
+  width: 500px;
+}
+.yokonarabi div {
+  width: 50%;
+}
+.yokonarabi img {
+  max-width: 100%;
+}
+
+.red {
+  background: #ed4040;
+}
+.yellow{
+  background: #eee600;
+}
